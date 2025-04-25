@@ -1,0 +1,37 @@
+# Базовое окружение
+fastapi
+uvicorn[standard]
+aiogram
+python-multipart
+
+# Парсинг PDF и OCR
+pdfplumber
+pytesseract
+opencv-python
+Pillow
+
+# Парсинг таблиц и данных
+pandas
+openpyxl
+
+# Модель и прогноз
+scikit-learn
+statsmodels
+prophet
+
+# База данных и ORM
+asyncpg
+sqlalchemy[asyncio]
+
+# Асинхронные задачи и планировщик
+APScheduler
+
+# Логирование
+loguru
+
+# LLM-интеграция
+httpx
+
+# Разработка и тесты
+python-dotenv
+pytest

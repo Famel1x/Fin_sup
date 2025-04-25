@@ -1,0 +1,948 @@
+2025-04-24 20:32:26,114 - INFO - BEGIN (implicit)
+2025-04-24 20:32:26,114 - INFO - PRAGMA main.table_info("users")
+2025-04-24 20:32:26,114 - INFO - [raw sql] ()
+2025-04-24 20:32:26,115 - INFO - COMMIT
+2025-04-24 20:32:26,318 - INFO - Start polling
+2025-04-24 20:32:26,383 - INFO - Run polling for bot @fAInance_bot id=7956303101 - 'fAInance'
+2025-04-24 20:32:35,634 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,634 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,634 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,635 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,635 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,636 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,802 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,802 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,802 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,802 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,802 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:35,802 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,348 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,349 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:32:36,537 - INFO - Полный датафрейм (каждый день \xd7 каждая категория) сохранён \u2705
+2025-04-24 20:32:36,538 - INFO - Начало обработки категории: Внесение наличных
+2025-04-24 20:32:36,563 - INFO - Категория Внесение наличных обработана за 0.0 сек.
+2025-04-24 20:32:36,564 - INFO - Начало обработки категории: Выдача наличных
+2025-04-24 20:32:36,590 - INFO - Категория Выдача наличных обработана за 0.0 сек.
+2025-04-24 20:32:36,590 - INFO - Начало обработки категории: Одежда и аксессуары
+2025-04-24 20:32:36,615 - INFO - Категория Одежда и аксессуары обработана за 0.0 сек.
+2025-04-24 20:32:36,616 - INFO - Начало обработки категории: Отдых и развлечения
+2025-04-24 20:32:36,642 - INFO - Категория Отдых и развлечения обработана за 0.0 сек.
+2025-04-24 20:32:36,642 - INFO - Начало обработки категории: Прочие операции
+2025-04-24 20:32:36,670 - INFO - Категория Прочие операции обработана за 0.0 сек.
+2025-04-24 20:32:36,670 - INFO - Начало обработки категории: Прочие расходы
+2025-04-24 20:32:36,704 - INFO - Категория Прочие расходы обработана за 0.0 сек.
+2025-04-24 20:32:36,705 - INFO - Начало обработки категории: Рестораны и кафе
+2025-04-24 20:32:36,730 - INFO - Категория Рестораны и кафе обработана за 0.0 сек.
+2025-04-24 20:32:36,730 - INFO - Начало обработки категории: Супермаркеты
+2025-04-24 20:32:36,756 - INFO - Категория Супермаркеты обработана за 0.0 сек.
+2025-04-24 20:32:36,756 - INFO - Начало обработки категории: Транспорт
+2025-04-24 20:32:36,782 - INFO - Категория Транспорт обработана за 0.0 сек.
+2025-04-24 20:32:36,783 - INFO - BEGIN (implicit)
+2025-04-24 20:32:36,784 - INFO - SELECT users.id, users.telegram_id, users.created_at, users.salary 
+FROM users 
+WHERE users.telegram_id = ?
+2025-04-24 20:32:36,784 - INFO - [generated in 0.00022s] ('1470579671',)
+2025-04-24 20:32:36,785 - INFO - ROLLBACK
+2025-04-24 20:32:36,890 - INFO - Update id=641929853 is handled. Duration 2078 ms by bot id=7956303101
+2025-04-24 20:33:16,823 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,823 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,823 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,824 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,824 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,824 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,824 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,825 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,825 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,825 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,825 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,826 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,826 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,826 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,827 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,827 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,827 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,827 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,828 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,828 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,828 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,875 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,876 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,876 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,876 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,876 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,877 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,877 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,877 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,877 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,878 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,878 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,878 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,878 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,879 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,879 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,879 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,880 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:16,880 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,588 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,589 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:18,601 - ERROR - Ошибка при сохранении входного датафрейма: [Errno 13] Permission denied: 'boosting_input_all_categories.xlsx'
+2025-04-24 20:33:18,604 - INFO - Начало обработки категории: Досрочное погашение
+2025-04-24 20:33:18,627 - INFO - Категория Досрочное погашение обработана за 0.0 сек.
+2025-04-24 20:33:18,628 - INFO - Начало обработки категории: Операция в других кредитных организациях YANDEX BANK MOSKVA RUS
+2025-04-24 20:33:18,651 - INFO - Категория Операция в других кредитных организациях YANDEX BANK MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:18,653 - INFO - Начало обработки категории: Оплата в A STORE MOSKVA RUS
+2025-04-24 20:33:18,676 - INFO - Категория Оплата в A STORE MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:18,677 - INFO - Начало обработки категории: Оплата в APPLE BOX Moskva RUS
+2025-04-24 20:33:18,698 - INFO - Категория Оплата в APPLE BOX Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:18,700 - INFO - Начало обработки категории: Оплата в APTEKA 24 MOSCOW RUS
+2025-04-24 20:33:18,723 - INFO - Категория Оплата в APTEKA 24 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:18,725 - INFO - Начало обработки категории: Оплата в ARK MOSCOW RUS
+2025-04-24 20:33:18,747 - INFO - Категория Оплата в ARK MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:18,748 - INFO - Начало обработки категории: Оплата в AV AZBUKAVKUSA MOSCOW RUS
+2025-04-24 20:33:18,770 - INFO - Категория Оплата в AV AZBUKAVKUSA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:18,771 - INFO - Начало обработки категории: Оплата в Afisha_Kassa_SBP
+2025-04-24 20:33:18,795 - INFO - Категория Оплата в Afisha_Kassa_SBP обработана за 0.0 сек.
+2025-04-24 20:33:18,796 - INFO - Начало обработки категории: Оплата в B152 Перекресток
+2025-04-24 20:33:18,818 - INFO - Категория Оплата в B152 Перекресток обработана за 0.0 сек.
+2025-04-24 20:33:18,819 - INFO - Начало обработки категории: Оплата в BAR DNEVNIK MOSCOW RUS
+2025-04-24 20:33:18,845 - INFO - Категория Оплата в BAR DNEVNIK MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:18,846 - INFO - Начало обработки категории: Оплата в BERI ZARYAD innovacionnog RUS
+2025-04-24 20:33:18,868 - INFO - Категория Оплата в BERI ZARYAD innovacionnog RUS обработана за 0.0 сек.
+2025-04-24 20:33:18,869 - INFO - Начало обработки категории: Оплата в CAFETERA MOSKVA RUS
+2025-04-24 20:33:18,895 - INFO - Категория Оплата в CAFETERA MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:18,896 - INFO - Начало обработки категории: Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 14
+2025-04-24 20:33:18,918 - INFO - Категория Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 14 обработана за 0.0 сек.
+2025-04-24 20:33:18,919 - INFO - Начало обработки категории: Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 15
+2025-04-24 20:33:18,941 - INFO - Категория Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 15 обработана за 0.0 сек.
+2025-04-24 20:33:18,942 - INFO - Начало обработки категории: Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 5
+2025-04-24 20:33:18,965 - INFO - Категория Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 5 обработана за 0.0 сек.
+2025-04-24 20:33:18,966 - INFO - Начало обработки категории: Оплата в CAMERA OBSCURA MOSCOW RUS
+2025-04-24 20:33:18,989 - INFO - Категория Оплата в CAMERA OBSCURA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:18,990 - INFO - Начало обработки категории: Оплата в CHELOVEK I PAROKHOD MOSCOW RUS
+2025-04-24 20:33:19,014 - INFO - Категория Оплата в CHELOVEK I PAROKHOD MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,015 - INFO - Начало обработки категории: Оплата в CITYSTORE PRESNENSKAYA MOSKVA RUS
+2025-04-24 20:33:19,037 - INFO - Категория Оплата в CITYSTORE PRESNENSKAYA MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,038 - INFO - Начало обработки категории: Оплата в COFFEE BY POINT MOSCOW RUS
+2025-04-24 20:33:19,063 - INFO - Категория Оплата в COFFEE BY POINT MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,064 - INFO - Начало обработки категории: Оплата в COOPERATIVE CHERNYI MOSKVA RUS
+2025-04-24 20:33:19,087 - INFO - Категория Оплата в COOPERATIVE CHERNYI MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,088 - INFO - Начало обработки категории: Оплата в CP* SECRET- KITCHEN MOSKVA RUS
+2025-04-24 20:33:19,111 - INFO - Категория Оплата в CP* SECRET- KITCHEN MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,112 - INFO - Начало обработки категории: Оплата в Cafetera
+2025-04-24 20:33:19,135 - INFO - Категория Оплата в Cafetera обработана за 0.0 сек.
+2025-04-24 20:33:19,136 - INFO - Начало обработки категории: Оплата в DIXY-D MOSCOW RUS
+2025-04-24 20:33:19,159 - INFO - Категория Оплата в DIXY-D MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,161 - INFO - Начало обработки категории: Оплата в DODO PIZZA MOSCOW RUS
+2025-04-24 20:33:19,184 - INFO - Категория Оплата в DODO PIZZA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,185 - INFO - Начало обработки категории: Оплата в DOM BELOGO ZHURAVLYA Gorod Moskva RUS
+2025-04-24 20:33:19,217 - INFO - Категория Оплата в DOM BELOGO ZHURAVLYA Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,218 - INFO - Начало обработки категории: Оплата в ETO PO LYUBVI MOSCOW RUS
+2025-04-24 20:33:19,241 - INFO - Категория Оплата в ETO PO LYUBVI MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,243 - INFO - Начало обработки категории: Оплата в FRANCUZSKAYA PEKARNYA MOSCOW RUS
+2025-04-24 20:33:19,266 - INFO - Категория Оплата в FRANCUZSKAYA PEKARNYA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,267 - INFO - Начало обработки категории: Оплата в GLINA CAFE MOSCOW RUS
+2025-04-24 20:33:19,289 - INFO - Категория Оплата в GLINA CAFE MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,290 - INFO - Начало обработки категории: Оплата в GOLD APPLE Neglinnaya Moskva RUS
+2025-04-24 20:33:19,313 - INFO - Категория Оплата в GOLD APPLE Neglinnaya Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,314 - INFO - Начало обработки категории: Оплата в IP AYRAPETYAN A.A. MOSKVA RUS
+2025-04-24 20:33:19,336 - INFO - Категория Оплата в IP AYRAPETYAN A.A. MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,337 - INFO - Начало обработки категории: Оплата в IP GUSEVA MK MOSCOW RUS
+2025-04-24 20:33:19,359 - INFO - Категория Оплата в IP GUSEVA MK MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,360 - INFO - Начало обработки категории: Оплата в IP KOVALENKO MOSCOW RUS
+2025-04-24 20:33:19,383 - INFO - Категория Оплата в IP KOVALENKO MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,384 - INFO - Начало обработки категории: Оплата в IP KRASNOVA A.A. MOSKVA RUS
+2025-04-24 20:33:19,407 - INFO - Категория Оплата в IP KRASNOVA A.A. MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,409 - INFO - Начало обработки категории: Оплата в IP NEZHALSKAYA Ye D g Moskva RUS
+2025-04-24 20:33:19,431 - INFO - Категория Оплата в IP NEZHALSKAYA Ye D g Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,432 - INFO - Начало обработки категории: Оплата в JINJU POKROVKA MOSCOW RUS
+2025-04-24 20:33:19,456 - INFO - Категория Оплата в JINJU POKROVKA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,457 - INFO - Начало обработки категории: Оплата в KAFE Gorod Moskva RUS
+2025-04-24 20:33:19,479 - INFO - Категория Оплата в KAFE Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,481 - INFO - Начало обработки категории: Оплата в KAFE MOSKVA RUS
+2025-04-24 20:33:19,503 - INFO - Категория Оплата в KAFE MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,504 - INFO - Начало обработки категории: Оплата в KHACHAPURI I VINO 1 MOSCOW RUS
+2025-04-24 20:33:19,527 - INFO - Категория Оплата в KHACHAPURI I VINO 1 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,528 - INFO - Начало обработки категории: Оплата в KHIV _TRUBNAYA. Gorod Moskva RUS
+2025-04-24 20:33:19,550 - INFO - Категория Оплата в KHIV _TRUBNAYA. Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,551 - INFO - Начало обработки категории: Оплата в KOFEJNYA MATES MOSCOW RUS
+2025-04-24 20:33:19,575 - INFO - Категория Оплата в KOFEJNYA MATES MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,577 - INFO - Начало обработки категории: Оплата в KRANCHI DRIM MOSCOW RUS
+2025-04-24 20:33:19,600 - INFO - Категория Оплата в KRANCHI DRIM MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,601 - INFO - Начало обработки категории: Оплата в KULINARIYA GURMANOV Gorod Moskva RUS
+2025-04-24 20:33:19,625 - INFO - Категория Оплата в KULINARIYA GURMANOV Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,627 - INFO - Начало обработки категории: Оплата в KUSHAJ GOROD MOSCOW RUS
+2025-04-24 20:33:19,650 - INFO - Категория Оплата в KUSHAJ GOROD MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,651 - INFO - Начало обработки категории: Оплата в LDTS NA VERNADSKOGO Gorod Moskva RUS
+2025-04-24 20:33:19,674 - INFO - Категория Оплата в LDTS NA VERNADSKOGO Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,675 - INFO - Начало обработки категории: Оплата в LLC CHAIKA CLINICS MOSKVA RUS
+2025-04-24 20:33:19,700 - INFO - Категория Оплата в LLC CHAIKA CLINICS MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,701 - INFO - Начало обработки категории: Оплата в MAGAZIN MOSCOW RUS
+2025-04-24 20:33:19,723 - INFO - Категория Оплата в MAGAZIN MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,724 - INFO - Начало обработки категории: Оплата в MAGNOLIYA MOSCOW RUS
+2025-04-24 20:33:19,748 - INFO - Категория Оплата в MAGNOLIYA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,749 - INFO - Начало обработки категории: Оплата в MATES COFFEE MOSCOW RUS
+2025-04-24 20:33:19,772 - INFO - Категория Оплата в MATES COFFEE MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,773 - INFO - Начало обработки категории: Оплата в MATES MOSCOW RUS
+2025-04-24 20:33:19,796 - INFO - Категория Оплата в MATES MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,797 - INFO - Начало обработки категории: Оплата в MEDSI NA VARSHAVSKOJ Gorod Moskva RUS
+2025-04-24 20:33:19,818 - INFO - Категория Оплата в MEDSI NA VARSHAVSKOJ Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,819 - INFO - Начало обработки категории: Оплата в MIRATORG N133 MOSCOW RUS
+2025-04-24 20:33:19,841 - INFO - Категория Оплата в MIRATORG N133 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,843 - INFO - Начало обработки категории: Оплата в MSK.YAMIYAMI.RU SANKT-
+2025-04-24 20:33:19,865 - INFO - Категория Оплата в MSK.YAMIYAMI.RU SANKT- обработана за 0.0 сек.
+2025-04-24 20:33:19,866 - INFO - Начало обработки категории: Оплата в Mnogo Lososya New App Moskva RUS
+2025-04-24 20:33:19,889 - INFO - Категория Оплата в Mnogo Lososya New App Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,891 - INFO - Начало обработки категории: Оплата в Mnogo Lososya New App Moskva RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 17
+2025-04-24 20:33:19,913 - INFO - Категория Оплата в Mnogo Lososya New App Moskva RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 17 обработана за 0.0 сек.
+2025-04-24 20:33:19,914 - INFO - Начало обработки категории: Оплата в Mos.Transport MOSKVA RUS
+2025-04-24 20:33:19,938 - INFO - Категория Оплата в Mos.Transport MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,939 - INFO - Начало обработки категории: Оплата в Moskva Metro Moskva RUS
+2025-04-24 20:33:19,962 - INFO - Категория Оплата в Moskva Metro Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,963 - INFO - Начало обработки категории: Оплата в NAKHIMOVSKIY PROSPEKT MOSCOW RUS
+2025-04-24 20:33:19,986 - INFO - Категория Оплата в NAKHIMOVSKIY PROSPEKT MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:19,987 - INFO - Начало обработки категории: Оплата в NOUGE MOSKVA RUS
+2025-04-24 20:33:20,011 - INFO - Категория Оплата в NOUGE MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,013 - INFO - Начало обработки категории: Оплата в OOO FESONI MOSKVA RUS
+2025-04-24 20:33:20,034 - INFO - Категория Оплата в OOO FESONI MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,036 - INFO - Начало обработки категории: Оплата в OZON Moskva RUS
+2025-04-24 20:33:20,059 - INFO - Категория Оплата в OZON Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,061 - INFO - Начало обработки категории: Оплата в OZON6. MOSKVA RUS
+2025-04-24 20:33:20,085 - INFO - Категория Оплата в OZON6. MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,086 - INFO - Начало обработки категории: Оплата в PARLE MARKET MOSCOW RUS
+2025-04-24 20:33:20,109 - INFO - Категория Оплата в PARLE MARKET MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,111 - INFO - Начало обработки категории: Оплата в PARLE MARKET MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 1
+2025-04-24 20:33:20,131 - INFO - Категория Оплата в PARLE MARKET MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 1 обработана за 0.0 сек.
+2025-04-24 20:33:20,134 - INFO - Начало обработки категории: Оплата в PARLE MARKET MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 2
+2025-04-24 20:33:20,155 - INFO - Категория Оплата в PARLE MARKET MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 2 обработана за 0.0 сек.
+2025-04-24 20:33:20,156 - INFO - Начало обработки категории: Оплата в PE TOPILSKAYA VALERIYA g Moskva RUS
+2025-04-24 20:33:20,178 - INFO - Категория Оплата в PE TOPILSKAYA VALERIYA g Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,179 - INFO - Начало обработки категории: Оплата в PEREKRESTOK BOLOT MOSCOW RUS
+2025-04-24 20:33:20,202 - INFO - Категория Оплата в PEREKRESTOK BOLOT MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,202 - INFO - Начало обработки категории: Оплата в PEREKRESTOK SEVASTOPOL MOSCOW RUS
+2025-04-24 20:33:20,226 - INFO - Категория Оплата в PEREKRESTOK SEVASTOPOL MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,228 - INFO - Начало обработки категории: Оплата в PEREKRESTOK SEVASTOPOL MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 10
+2025-04-24 20:33:20,257 - INFO - Категория Оплата в PEREKRESTOK SEVASTOPOL MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 10 обработана за 0.0 сек.
+2025-04-24 20:33:20,259 - INFO - Начало обработки категории: Оплата в PIMS MOSCOW RUS
+2025-04-24 20:33:20,281 - INFO - Категория Оплата в PIMS MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,283 - INFO - Начало обработки категории: Оплата в PLAZA-TELEKOM Khimki RUS
+2025-04-24 20:33:20,305 - INFO - Категория Оплата в PLAZA-TELEKOM Khimki RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,307 - INFO - Начало обработки категории: Оплата в PRODUKTY MOSCOW RUS
+2025-04-24 20:33:20,329 - INFO - Категория Оплата в PRODUKTY MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,331 - INFO - Начало обработки категории: Оплата в PYATEROCHKA MOSCOW RUS
+2025-04-24 20:33:20,354 - INFO - Категория Оплата в PYATEROCHKA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,355 - INFO - Начало обработки категории: Оплата в Parle Market
+2025-04-24 20:33:20,377 - INFO - Категория Оплата в Parle Market обработана за 0.0 сек.
+2025-04-24 20:33:20,379 - INFO - Начало обработки категории: Оплата в Produkty i tabak Moskva RUS
+2025-04-24 20:33:20,400 - INFO - Категория Оплата в Produkty i tabak Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,401 - INFO - Начало обработки категории: Оплата в QSR Gorod Moskva RUS
+2025-04-24 20:33:20,424 - INFO - Категория Оплата в QSR Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,425 - INFO - Начало обработки категории: Оплата в QSR MOSCOW RUS
+2025-04-24 20:33:20,448 - INFO - Категория Оплата в QSR MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,450 - INFO - Начало обработки категории: Оплата в ROCKETS MOSCOW RUS
+2025-04-24 20:33:20,471 - INFO - Категория Оплата в ROCKETS MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,472 - INFO - Начало обработки категории: Оплата в S481 Пятерочка
+2025-04-24 20:33:20,495 - INFO - Категория Оплата в S481 Пятерочка обработана за 0.0 сек.
+2025-04-24 20:33:20,496 - INFO - Начало обработки категории: Оплата в SAMOKAT SANKT- PETERBU RUS
+2025-04-24 20:33:20,521 - INFO - Категория Оплата в SAMOKAT SANKT- PETERBU RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,522 - INFO - Начало обработки категории: Оплата в SAMOKAT SANKT- PETERBU RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 4
+2025-04-24 20:33:20,545 - INFO - Категория Оплата в SAMOKAT SANKT- PETERBU RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 4 обработана за 0.0 сек.
+2025-04-24 20:33:20,546 - INFO - Начало обработки категории: Оплата в SOUL IN THE_BOWL. MOSCOW RUS
+2025-04-24 20:33:20,569 - INFO - Категория Оплата в SOUL IN THE_BOWL. MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,570 - INFO - Начало обработки категории: Оплата в SPAR N333 MOSCOW RUS
+2025-04-24 20:33:20,592 - INFO - Категория Оплата в SPAR N333 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,593 - INFO - Начало обработки категории: Оплата в SUPERMARKET AZBUKA VKU MOSCOW RUS
+2025-04-24 20:33:20,616 - INFO - Категория Оплата в SUPERMARKET AZBUKA VKU MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,618 - INFO - Начало обработки категории: Оплата в SURF COFFEE HILLS MOSCOW RUS
+2025-04-24 20:33:20,640 - INFO - Категория Оплата в SURF COFFEE HILLS MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,641 - INFO - Начало обработки категории: Оплата в SURF COFFEE X TECH MOSKVA RUS
+2025-04-24 20:33:20,664 - INFO - Категория Оплата в SURF COFFEE X TECH MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,665 - INFO - Начало обработки категории: Оплата в SURF COFFEE X WINGS MOSCOW RUS
+2025-04-24 20:33:20,687 - INFO - Категория Оплата в SURF COFFEE X WINGS MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,688 - INFO - Начало обработки категории: Оплата в SUSHISTORE LYUBERTSY RUS
+2025-04-24 20:33:20,711 - INFO - Категория Оплата в SUSHISTORE LYUBERTSY RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,712 - INFO - Начало обработки категории: Оплата в Secret-kitchen G VOLGOGRAD RUS
+2025-04-24 20:33:20,734 - INFO - Категория Оплата в Secret-kitchen G VOLGOGRAD RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,736 - INFO - Начало обработки категории: Оплата в TABAK Krasnogorsk RUS
+2025-04-24 20:33:20,758 - INFO - Категория Оплата в TABAK Krasnogorsk RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,759 - INFO - Начало обработки категории: Оплата в TABAK MOSCOW RUS
+2025-04-24 20:33:20,783 - INFO - Категория Оплата в TABAK MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,783 - INFO - Начало обработки категории: Оплата в TABAK TEKHNOPARK MOSCOW RUS
+2025-04-24 20:33:20,807 - INFO - Категория Оплата в TABAK TEKHNOPARK MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,809 - INFO - Начало обработки категории: Оплата в TANUKI DOSTAVKA SANKT- PETERBU RUS
+2025-04-24 20:33:20,832 - INFO - Категория Оплата в TANUKI DOSTAVKA SANKT- PETERBU RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,833 - INFO - Начало обработки категории: Оплата в TSENTR TRIKHOLOGII MOSKVA RUS
+2025-04-24 20:33:20,856 - INFO - Категория Оплата в TSENTR TRIKHOLOGII MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,857 - INFO - Начало обработки категории: Оплата в VELLUTO MOSCOW RUS
+2025-04-24 20:33:20,880 - INFO - Категория Оплата в VELLUTO MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,881 - INFO - Начало обработки категории: Оплата в VK*VK Combo Moscow RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 19
+2025-04-24 20:33:20,906 - INFO - Категория Оплата в VK*VK Combo Moscow RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 19 обработана за 0.0 сек.
+2025-04-24 20:33:20,907 - INFO - Начало обработки категории: Оплата в VK*VK Music Saint-Petersb RUS
+2025-04-24 20:33:20,931 - INFO - Категория Оплата в VK*VK Music Saint-Petersb RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,932 - INFO - Начало обработки категории: Оплата в VK.COM/EDVAZNAKOMI
+2025-04-24 20:33:20,956 - INFO - Категория Оплата в VK.COM/EDVAZNAKOMI обработана за 0.0 сек.
+2025-04-24 20:33:20,957 - INFO - Начало обработки категории: Оплата в VKUSNOITOCHKA_ MOSCOW RUS
+2025-04-24 20:33:20,980 - INFO - Категория Оплата в VKUSNOITOCHKA_ MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:20,982 - INFO - Начало обработки категории: Оплата в VKUSVILL_902_QR
+2025-04-24 20:33:21,004 - INFO - Категория Оплата в VKUSVILL_902_QR обработана за 0.0 сек.
+2025-04-24 20:33:21,006 - INFO - Начало обработки категории: Оплата в VKUSVILL_BIOMET_1 MOSCOW RUS
+2025-04-24 20:33:21,028 - INFO - Категория Оплата в VKUSVILL_BIOMET_1 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,030 - INFO - Начало обработки категории: Оплата в VKUSVILL_KCO 902_1 MOSCOW RUS
+2025-04-24 20:33:21,053 - INFO - Категория Оплата в VKUSVILL_KCO 902_1 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,054 - INFO - Начало обработки категории: Оплата в VKUSVILL_KCO 902_1 MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 8
+2025-04-24 20:33:21,076 - INFO - Категория Оплата в VKUSVILL_KCO 902_1 MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 8 обработана за 0.0 сек.
+2025-04-24 20:33:21,077 - INFO - Начало обработки категории: Оплата в VKUSVILL_KCO 902_2 MOSCOW RUS
+2025-04-24 20:33:21,101 - INFO - Категория Оплата в VKUSVILL_KCO 902_2 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,103 - INFO - Начало обработки категории: Оплата в VKUSVILL_KCO 902_3 MOSCOW RUS
+2025-04-24 20:33:21,126 - INFO - Категория Оплата в VKUSVILL_KCO 902_3 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,127 - INFO - Начало обработки категории: Оплата в VKUSVILL_KSO__1 MOSCOW RUS
+2025-04-24 20:33:21,151 - INFO - Категория Оплата в VKUSVILL_KSO__1 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,152 - INFO - Начало обработки категории: Оплата в VKUSVILL_KSO__2 MOSCOW RUS
+2025-04-24 20:33:21,176 - INFO - Категория Оплата в VKUSVILL_KSO__2 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,178 - INFO - Начало обработки категории: Оплата в VKUSVILL_KSO__2 MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 16
+2025-04-24 20:33:21,200 - INFO - Категория Оплата в VKUSVILL_KSO__2 MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 16 обработана за 0.0 сек.
+2025-04-24 20:33:21,201 - INFO - Начало обработки категории: Оплата в VKUSVILL__1 MOSCOW RUS
+2025-04-24 20:33:21,225 - INFO - Категория Оплата в VKUSVILL__1 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,226 - INFO - Начало обработки категории: Оплата в VKUSVILL__3 MOSCOW RUS
+2025-04-24 20:33:21,249 - INFO - Категория Оплата в VKUSVILL__3 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,250 - INFO - Начало обработки категории: Оплата в VKUSVILL__QR
+2025-04-24 20:33:21,274 - INFO - Категория Оплата в VKUSVILL__QR обработана за 0.0 сек.
+2025-04-24 20:33:21,275 - INFO - Начало обработки категории: Оплата в VKUSVILL__QR АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 9
+2025-04-24 20:33:21,305 - INFO - Категория Оплата в VKUSVILL__QR АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 9 обработана за 0.0 сек.
+2025-04-24 20:33:21,307 - INFO - Начало обработки категории: Оплата в VV__KCO_4 MOSCOW RUS
+2025-04-24 20:33:21,330 - INFO - Категория Оплата в VV__KCO_4 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,331 - INFO - Начало обработки категории: Оплата в Y.M*SIMPLESMM MOSCOW RUS
+2025-04-24 20:33:21,352 - INFO - Категория Оплата в Y.M*SIMPLESMM MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,354 - INFO - Начало обработки категории: Оплата в YM*SIMPLESMM MOSCOW RUS
+2025-04-24 20:33:21,377 - INFO - Категория Оплата в YM*SIMPLESMM MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,379 - INFO - Начало обработки категории: Оплата в YM*YANDEX.AFISHA
+2025-04-24 20:33:21,401 - INFO - Категория Оплата в YM*YANDEX.AFISHA обработана за 0.0 сек.
+2025-04-24 20:33:21,402 - INFO - Начало обработки категории: Оплата в YM*market.yandex g. Moskva RUS
+2025-04-24 20:33:21,427 - INFO - Категория Оплата в YM*market.yandex g. Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,428 - INFO - Начало обработки категории: Оплата в YM*simplebot KOROLEV RUS
+2025-04-24 20:33:21,451 - INFO - Категория Оплата в YM*simplebot KOROLEV RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,452 - INFO - Начало обработки категории: Оплата в Yandex Eda Moskva RUS
+2025-04-24 20:33:21,475 - INFO - Категория Оплата в Yandex Eda Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,476 - INFO - Начало обработки категории: Оплата в Yandex.Lavka Moskva RUS
+2025-04-24 20:33:21,501 - INFO - Категория Оплата в Yandex.Lavka Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,503 - INFO - Начало обработки категории: Оплата в Yandex.Plus Moskva RUS
+2025-04-24 20:33:21,526 - INFO - Категория Оплата в Yandex.Plus Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,527 - INFO - Начало обработки категории: Оплата в YandexGo Moskva RUS
+2025-04-24 20:33:21,551 - INFO - Категория Оплата в YandexGo Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,553 - INFO - Начало обработки категории: Оплата в drinkit MOSKVA RUS
+2025-04-24 20:33:21,577 - INFO - Категория Оплата в drinkit MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,579 - INFO - Начало обработки категории: Оплата в drinkit MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 11
+2025-04-24 20:33:21,601 - INFO - Категория Оплата в drinkit MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 11 обработана за 0.0 сек.
+2025-04-24 20:33:21,602 - INFO - Начало обработки категории: Оплата в drinkit MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 6
+2025-04-24 20:33:21,626 - INFO - Категория Оплата в drinkit MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 6 обработана за 0.0 сек.
+2025-04-24 20:33:21,628 - INFO - Начало обработки категории: Оплата в drinkit Moskva RUS
+2025-04-24 20:33:21,650 - INFO - Категория Оплата в drinkit Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,651 - INFO - Начало обработки категории: Оплата в secret-kitchen MOSKVA RUS
+2025-04-24 20:33:21,675 - INFO - Категория Оплата в secret-kitchen MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,676 - INFO - Начало обработки категории: Оплата в ugoloc.ru Moskva RUS
+2025-04-24 20:33:21,699 - INFO - Категория Оплата в ugoloc.ru Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,700 - INFO - Начало обработки категории: Оплата в vkusvill CHERNOGOLOVKA RUS
+2025-04-24 20:33:21,724 - INFO - Категория Оплата в vkusvill CHERNOGOLOVKA RUS обработана за 0.0 сек.
+2025-04-24 20:33:21,725 - INFO - Начало обработки категории: Оплата в Вино и другие лекар_P_QR
+2025-04-24 20:33:21,747 - INFO - Категория Оплата в Вино и другие лекар_P_QR обработана за 0.0 сек.
+2025-04-24 20:33:21,748 - INFO - Начало обработки категории: Оплата в МАГНОЛИЯ_P_QR
+2025-04-24 20:33:21,770 - INFO - Категория Оплата в МАГНОЛИЯ_P_QR обработана за 0.0 сек.
+2025-04-24 20:33:21,772 - INFO - Начало обработки категории: Оплата в НЕТМОНЕТ АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 18
+2025-04-24 20:33:21,795 - INFO - Категория Оплата в НЕТМОНЕТ АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 18 обработана за 0.0 сек.
+2025-04-24 20:33:21,796 - INFO - Начало обработки категории: Оплата в ООО ПРОДАМУС
+2025-04-24 20:33:21,819 - INFO - Категория Оплата в ООО ПРОДАМУС обработана за 0.0 сек.
+2025-04-24 20:33:21,820 - INFO - Начало обработки категории: Оплата в Перекресток АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 3
+2025-04-24 20:33:21,843 - INFO - Категория Оплата в Перекресток АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 3 обработана за 0.0 сек.
+2025-04-24 20:33:21,845 - INFO - Начало обработки категории: Оплата в Сервисы Яндекса
+2025-04-24 20:33:21,868 - INFO - Категория Оплата в Сервисы Яндекса обработана за 0.0 сек.
+2025-04-24 20:33:21,870 - INFO - Начало обработки категории: Оплата в Табак ТЕХНОПАРК_P_QR
+2025-04-24 20:33:21,893 - INFO - Категория Оплата в Табак ТЕХНОПАРК_P_QR обработана за 0.0 сек.
+2025-04-24 20:33:21,894 - INFO - Начало обработки категории: Оплата услуг mBank.AKADO
+2025-04-24 20:33:21,917 - INFO - Категория Оплата услуг mBank.AKADO обработана за 0.0 сек.
+2025-04-24 20:33:21,918 - INFO - Начало обработки категории: Оплата услуг mBank.MTS
+2025-04-24 20:33:21,941 - INFO - Категория Оплата услуг mBank.MTS обработана за 0.0 сек.
+2025-04-24 20:33:21,943 - INFO - Начало обработки категории: Пополнение брокерского счета
+2025-04-24 20:33:21,964 - INFO - Категория Пополнение брокерского счета обработана за 0.0 сек.
+2025-04-24 20:33:21,980 - INFO - BEGIN (implicit)
+2025-04-24 20:33:21,980 - INFO - SELECT users.id, users.telegram_id, users.created_at, users.salary 
+FROM users 
+WHERE users.telegram_id = ?
+2025-04-24 20:33:21,980 - INFO - [cached since 45.2s ago] ('1470579671',)
+2025-04-24 20:33:21,981 - INFO - ROLLBACK
+2025-04-24 20:33:22,248 - INFO - Update id=641929854 is handled. Duration 6156 ms by bot id=7956303101
+2025-04-24 20:33:31,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,225 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,226 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,227 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,227 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,227 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,228 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,229 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,229 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,229 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,230 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,231 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,280 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,281 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,282 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,282 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,282 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,282 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,283 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,283 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,283 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,283 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,284 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,284 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,284 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,284 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,285 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,285 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:31,285 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,025 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,026 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-04-24 20:33:33,038 - ERROR - Ошибка при сохранении входного датафрейма: [Errno 13] Permission denied: 'boosting_input_all_categories.xlsx'
+2025-04-24 20:33:33,041 - INFO - Начало обработки категории: Досрочное погашение
+2025-04-24 20:33:33,063 - INFO - Категория Досрочное погашение обработана за 0.0 сек.
+2025-04-24 20:33:33,064 - INFO - Начало обработки категории: Операция в других кредитных организациях YANDEX BANK MOSKVA RUS
+2025-04-24 20:33:33,087 - INFO - Категория Операция в других кредитных организациях YANDEX BANK MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,088 - INFO - Начало обработки категории: Оплата в A STORE MOSKVA RUS
+2025-04-24 20:33:33,111 - INFO - Категория Оплата в A STORE MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,113 - INFO - Начало обработки категории: Оплата в APPLE BOX Moskva RUS
+2025-04-24 20:33:33,135 - INFO - Категория Оплата в APPLE BOX Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,137 - INFO - Начало обработки категории: Оплата в APTEKA 24 MOSCOW RUS
+2025-04-24 20:33:33,160 - INFO - Категория Оплата в APTEKA 24 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,161 - INFO - Начало обработки категории: Оплата в ARK MOSCOW RUS
+2025-04-24 20:33:33,183 - INFO - Категория Оплата в ARK MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,184 - INFO - Начало обработки категории: Оплата в AV AZBUKAVKUSA MOSCOW RUS
+2025-04-24 20:33:33,208 - INFO - Категория Оплата в AV AZBUKAVKUSA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,210 - INFO - Начало обработки категории: Оплата в Afisha_Kassa_SBP
+2025-04-24 20:33:33,231 - INFO - Категория Оплата в Afisha_Kassa_SBP обработана за 0.0 сек.
+2025-04-24 20:33:33,234 - INFO - Начало обработки категории: Оплата в B152 Перекресток
+2025-04-24 20:33:33,257 - INFO - Категория Оплата в B152 Перекресток обработана за 0.0 сек.
+2025-04-24 20:33:33,258 - INFO - Начало обработки категории: Оплата в BAR DNEVNIK MOSCOW RUS
+2025-04-24 20:33:33,281 - INFO - Категория Оплата в BAR DNEVNIK MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,283 - INFO - Начало обработки категории: Оплата в BERI ZARYAD innovacionnog RUS
+2025-04-24 20:33:33,306 - INFO - Категория Оплата в BERI ZARYAD innovacionnog RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,307 - INFO - Начало обработки категории: Оплата в CAFETERA MOSKVA RUS
+2025-04-24 20:33:33,334 - INFO - Категория Оплата в CAFETERA MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,335 - INFO - Начало обработки категории: Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 14
+2025-04-24 20:33:33,357 - INFO - Категория Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 14 обработана за 0.0 сек.
+2025-04-24 20:33:33,359 - INFO - Начало обработки категории: Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 15
+2025-04-24 20:33:33,381 - INFO - Категория Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 15 обработана за 0.0 сек.
+2025-04-24 20:33:33,382 - INFO - Начало обработки категории: Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 5
+2025-04-24 20:33:33,404 - INFO - Категория Оплата в CAFETERA MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 5 обработана за 0.0 сек.
+2025-04-24 20:33:33,405 - INFO - Начало обработки категории: Оплата в CAMERA OBSCURA MOSCOW RUS
+2025-04-24 20:33:33,427 - INFO - Категория Оплата в CAMERA OBSCURA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,429 - INFO - Начало обработки категории: Оплата в CHELOVEK I PAROKHOD MOSCOW RUS
+2025-04-24 20:33:33,453 - INFO - Категория Оплата в CHELOVEK I PAROKHOD MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,455 - INFO - Начало обработки категории: Оплата в CITYSTORE PRESNENSKAYA MOSKVA RUS
+2025-04-24 20:33:33,478 - INFO - Категория Оплата в CITYSTORE PRESNENSKAYA MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,479 - INFO - Начало обработки категории: Оплата в COFFEE BY POINT MOSCOW RUS
+2025-04-24 20:33:33,503 - INFO - Категория Оплата в COFFEE BY POINT MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,505 - INFO - Начало обработки категории: Оплата в COOPERATIVE CHERNYI MOSKVA RUS
+2025-04-24 20:33:33,526 - INFO - Категория Оплата в COOPERATIVE CHERNYI MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,527 - INFO - Начало обработки категории: Оплата в CP* SECRET- KITCHEN MOSKVA RUS
+2025-04-24 20:33:33,550 - INFO - Категория Оплата в CP* SECRET- KITCHEN MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,551 - INFO - Начало обработки категории: Оплата в Cafetera
+2025-04-24 20:33:33,574 - INFO - Категория Оплата в Cafetera обработана за 0.0 сек.
+2025-04-24 20:33:33,575 - INFO - Начало обработки категории: Оплата в DIXY-D MOSCOW RUS
+2025-04-24 20:33:33,598 - INFO - Категория Оплата в DIXY-D MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,600 - INFO - Начало обработки категории: Оплата в DODO PIZZA MOSCOW RUS
+2025-04-24 20:33:33,622 - INFO - Категория Оплата в DODO PIZZA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,623 - INFO - Начало обработки категории: Оплата в DOM BELOGO ZHURAVLYA Gorod Moskva RUS
+2025-04-24 20:33:33,646 - INFO - Категория Оплата в DOM BELOGO ZHURAVLYA Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,648 - INFO - Начало обработки категории: Оплата в ETO PO LYUBVI MOSCOW RUS
+2025-04-24 20:33:33,670 - INFO - Категория Оплата в ETO PO LYUBVI MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,672 - INFO - Начало обработки категории: Оплата в FRANCUZSKAYA PEKARNYA MOSCOW RUS
+2025-04-24 20:33:33,694 - INFO - Категория Оплата в FRANCUZSKAYA PEKARNYA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,695 - INFO - Начало обработки категории: Оплата в GLINA CAFE MOSCOW RUS
+2025-04-24 20:33:33,723 - INFO - Категория Оплата в GLINA CAFE MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,727 - INFO - Начало обработки категории: Оплата в GOLD APPLE Neglinnaya Moskva RUS
+2025-04-24 20:33:33,750 - INFO - Категория Оплата в GOLD APPLE Neglinnaya Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,751 - INFO - Начало обработки категории: Оплата в IP AYRAPETYAN A.A. MOSKVA RUS
+2025-04-24 20:33:33,773 - INFO - Категория Оплата в IP AYRAPETYAN A.A. MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,775 - INFO - Начало обработки категории: Оплата в IP GUSEVA MK MOSCOW RUS
+2025-04-24 20:33:33,799 - INFO - Категория Оплата в IP GUSEVA MK MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,800 - INFO - Начало обработки категории: Оплата в IP KOVALENKO MOSCOW RUS
+2025-04-24 20:33:33,823 - INFO - Категория Оплата в IP KOVALENKO MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,824 - INFO - Начало обработки категории: Оплата в IP KRASNOVA A.A. MOSKVA RUS
+2025-04-24 20:33:33,848 - INFO - Категория Оплата в IP KRASNOVA A.A. MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,849 - INFO - Начало обработки категории: Оплата в IP NEZHALSKAYA Ye D g Moskva RUS
+2025-04-24 20:33:33,870 - INFO - Категория Оплата в IP NEZHALSKAYA Ye D g Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,872 - INFO - Начало обработки категории: Оплата в JINJU POKROVKA MOSCOW RUS
+2025-04-24 20:33:33,894 - INFO - Категория Оплата в JINJU POKROVKA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,895 - INFO - Начало обработки категории: Оплата в KAFE Gorod Moskva RUS
+2025-04-24 20:33:33,917 - INFO - Категория Оплата в KAFE Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,918 - INFO - Начало обработки категории: Оплата в KAFE MOSKVA RUS
+2025-04-24 20:33:33,943 - INFO - Категория Оплата в KAFE MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,944 - INFO - Начало обработки категории: Оплата в KHACHAPURI I VINO 1 MOSCOW RUS
+2025-04-24 20:33:33,969 - INFO - Категория Оплата в KHACHAPURI I VINO 1 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,970 - INFO - Начало обработки категории: Оплата в KHIV _TRUBNAYA. Gorod Moskva RUS
+2025-04-24 20:33:33,992 - INFO - Категория Оплата в KHIV _TRUBNAYA. Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:33,993 - INFO - Начало обработки категории: Оплата в KOFEJNYA MATES MOSCOW RUS
+2025-04-24 20:33:34,017 - INFO - Категория Оплата в KOFEJNYA MATES MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,019 - INFO - Начало обработки категории: Оплата в KRANCHI DRIM MOSCOW RUS
+2025-04-24 20:33:34,041 - INFO - Категория Оплата в KRANCHI DRIM MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,042 - INFO - Начало обработки категории: Оплата в KULINARIYA GURMANOV Gorod Moskva RUS
+2025-04-24 20:33:34,064 - INFO - Категория Оплата в KULINARIYA GURMANOV Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,065 - INFO - Начало обработки категории: Оплата в KUSHAJ GOROD MOSCOW RUS
+2025-04-24 20:33:34,087 - INFO - Категория Оплата в KUSHAJ GOROD MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,089 - INFO - Начало обработки категории: Оплата в LDTS NA VERNADSKOGO Gorod Moskva RUS
+2025-04-24 20:33:34,111 - INFO - Категория Оплата в LDTS NA VERNADSKOGO Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,113 - INFO - Начало обработки категории: Оплата в LLC CHAIKA CLINICS MOSKVA RUS
+2025-04-24 20:33:34,137 - INFO - Категория Оплата в LLC CHAIKA CLINICS MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,138 - INFO - Начало обработки категории: Оплата в MAGAZIN MOSCOW RUS
+2025-04-24 20:33:34,161 - INFO - Категория Оплата в MAGAZIN MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,162 - INFO - Начало обработки категории: Оплата в MAGNOLIYA MOSCOW RUS
+2025-04-24 20:33:34,185 - INFO - Категория Оплата в MAGNOLIYA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,186 - INFO - Начало обработки категории: Оплата в MATES COFFEE MOSCOW RUS
+2025-04-24 20:33:34,209 - INFO - Категория Оплата в MATES COFFEE MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,211 - INFO - Начало обработки категории: Оплата в MATES MOSCOW RUS
+2025-04-24 20:33:34,235 - INFO - Категория Оплата в MATES MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,236 - INFO - Начало обработки категории: Оплата в MEDSI NA VARSHAVSKOJ Gorod Moskva RUS
+2025-04-24 20:33:34,258 - INFO - Категория Оплата в MEDSI NA VARSHAVSKOJ Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,260 - INFO - Начало обработки категории: Оплата в MIRATORG N133 MOSCOW RUS
+2025-04-24 20:33:34,283 - INFO - Категория Оплата в MIRATORG N133 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,284 - INFO - Начало обработки категории: Оплата в MSK.YAMIYAMI.RU SANKT-
+2025-04-24 20:33:34,308 - INFO - Категория Оплата в MSK.YAMIYAMI.RU SANKT- обработана за 0.0 сек.
+2025-04-24 20:33:34,310 - INFO - Начало обработки категории: Оплата в Mnogo Lososya New App Moskva RUS
+2025-04-24 20:33:34,331 - INFO - Категория Оплата в Mnogo Lososya New App Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,333 - INFO - Начало обработки категории: Оплата в Mnogo Lososya New App Moskva RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 17
+2025-04-24 20:33:34,356 - INFO - Категория Оплата в Mnogo Lososya New App Moskva RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 17 обработана за 0.0 сек.
+2025-04-24 20:33:34,357 - INFO - Начало обработки категории: Оплата в Mos.Transport MOSKVA RUS
+2025-04-24 20:33:34,380 - INFO - Категория Оплата в Mos.Transport MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,382 - INFO - Начало обработки категории: Оплата в Moskva Metro Moskva RUS
+2025-04-24 20:33:34,405 - INFO - Категория Оплата в Moskva Metro Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,406 - INFO - Начало обработки категории: Оплата в NAKHIMOVSKIY PROSPEKT MOSCOW RUS
+2025-04-24 20:33:34,428 - INFO - Категория Оплата в NAKHIMOVSKIY PROSPEKT MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,430 - INFO - Начало обработки категории: Оплата в NOUGE MOSKVA RUS
+2025-04-24 20:33:34,451 - INFO - Категория Оплата в NOUGE MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,454 - INFO - Начало обработки категории: Оплата в OOO FESONI MOSKVA RUS
+2025-04-24 20:33:34,475 - INFO - Категория Оплата в OOO FESONI MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,477 - INFO - Начало обработки категории: Оплата в OZON Moskva RUS
+2025-04-24 20:33:34,500 - INFO - Категория Оплата в OZON Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,502 - INFO - Начало обработки категории: Оплата в OZON6. MOSKVA RUS
+2025-04-24 20:33:34,524 - INFO - Категория Оплата в OZON6. MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,525 - INFO - Начало обработки категории: Оплата в PARLE MARKET MOSCOW RUS
+2025-04-24 20:33:34,547 - INFO - Категория Оплата в PARLE MARKET MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,549 - INFO - Начало обработки категории: Оплата в PARLE MARKET MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 1
+2025-04-24 20:33:34,572 - INFO - Категория Оплата в PARLE MARKET MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 1 обработана за 0.0 сек.
+2025-04-24 20:33:34,573 - INFO - Начало обработки категории: Оплата в PARLE MARKET MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 2
+2025-04-24 20:33:34,595 - INFO - Категория Оплата в PARLE MARKET MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 2 обработана за 0.0 сек.
+2025-04-24 20:33:34,597 - INFO - Начало обработки категории: Оплата в PE TOPILSKAYA VALERIYA g Moskva RUS
+2025-04-24 20:33:34,619 - INFO - Категория Оплата в PE TOPILSKAYA VALERIYA g Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,621 - INFO - Начало обработки категории: Оплата в PEREKRESTOK BOLOT MOSCOW RUS
+2025-04-24 20:33:34,643 - INFO - Категория Оплата в PEREKRESTOK BOLOT MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,645 - INFO - Начало обработки категории: Оплата в PEREKRESTOK SEVASTOPOL MOSCOW RUS
+2025-04-24 20:33:34,668 - INFO - Категория Оплата в PEREKRESTOK SEVASTOPOL MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,669 - INFO - Начало обработки категории: Оплата в PEREKRESTOK SEVASTOPOL MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 10
+2025-04-24 20:33:34,690 - INFO - Категория Оплата в PEREKRESTOK SEVASTOPOL MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 10 обработана за 0.0 сек.
+2025-04-24 20:33:34,692 - INFO - Начало обработки категории: Оплата в PIMS MOSCOW RUS
+2025-04-24 20:33:34,715 - INFO - Категория Оплата в PIMS MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,716 - INFO - Начало обработки категории: Оплата в PLAZA-TELEKOM Khimki RUS
+2025-04-24 20:33:34,738 - INFO - Категория Оплата в PLAZA-TELEKOM Khimki RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,740 - INFO - Начало обработки категории: Оплата в PRODUKTY MOSCOW RUS
+2025-04-24 20:33:34,771 - INFO - Категория Оплата в PRODUKTY MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,772 - INFO - Начало обработки категории: Оплата в PYATEROCHKA MOSCOW RUS
+2025-04-24 20:33:34,794 - INFO - Категория Оплата в PYATEROCHKA MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,795 - INFO - Начало обработки категории: Оплата в Parle Market
+2025-04-24 20:33:34,819 - INFO - Категория Оплата в Parle Market обработана за 0.0 сек.
+2025-04-24 20:33:34,820 - INFO - Начало обработки категории: Оплата в Produkty i tabak Moskva RUS
+2025-04-24 20:33:34,843 - INFO - Категория Оплата в Produkty i tabak Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,845 - INFO - Начало обработки категории: Оплата в QSR Gorod Moskva RUS
+2025-04-24 20:33:34,867 - INFO - Категория Оплата в QSR Gorod Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,868 - INFO - Начало обработки категории: Оплата в QSR MOSCOW RUS
+2025-04-24 20:33:34,890 - INFO - Категория Оплата в QSR MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,891 - INFO - Начало обработки категории: Оплата в ROCKETS MOSCOW RUS
+2025-04-24 20:33:34,913 - INFO - Категория Оплата в ROCKETS MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,913 - INFO - Начало обработки категории: Оплата в S481 Пятерочка
+2025-04-24 20:33:34,937 - INFO - Категория Оплата в S481 Пятерочка обработана за 0.0 сек.
+2025-04-24 20:33:34,939 - INFO - Начало обработки категории: Оплата в SAMOKAT SANKT- PETERBU RUS
+2025-04-24 20:33:34,961 - INFO - Категория Оплата в SAMOKAT SANKT- PETERBU RUS обработана за 0.0 сек.
+2025-04-24 20:33:34,963 - INFO - Начало обработки категории: Оплата в SAMOKAT SANKT- PETERBU RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 4
+2025-04-24 20:33:34,986 - INFO - Категория Оплата в SAMOKAT SANKT- PETERBU RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 4 обработана за 0.0 сек.
+2025-04-24 20:33:34,987 - INFO - Начало обработки категории: Оплата в SOUL IN THE_BOWL. MOSCOW RUS
+2025-04-24 20:33:35,011 - INFO - Категория Оплата в SOUL IN THE_BOWL. MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,012 - INFO - Начало обработки категории: Оплата в SPAR N333 MOSCOW RUS
+2025-04-24 20:33:35,034 - INFO - Категория Оплата в SPAR N333 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,036 - INFO - Начало обработки категории: Оплата в SUPERMARKET AZBUKA VKU MOSCOW RUS
+2025-04-24 20:33:35,060 - INFO - Категория Оплата в SUPERMARKET AZBUKA VKU MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,061 - INFO - Начало обработки категории: Оплата в SURF COFFEE HILLS MOSCOW RUS
+2025-04-24 20:33:35,083 - INFO - Категория Оплата в SURF COFFEE HILLS MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,083 - INFO - Начало обработки категории: Оплата в SURF COFFEE X TECH MOSKVA RUS
+2025-04-24 20:33:35,107 - INFO - Категория Оплата в SURF COFFEE X TECH MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,109 - INFO - Начало обработки категории: Оплата в SURF COFFEE X WINGS MOSCOW RUS
+2025-04-24 20:33:35,130 - INFO - Категория Оплата в SURF COFFEE X WINGS MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,131 - INFO - Начало обработки категории: Оплата в SUSHISTORE LYUBERTSY RUS
+2025-04-24 20:33:35,154 - INFO - Категория Оплата в SUSHISTORE LYUBERTSY RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,156 - INFO - Начало обработки категории: Оплата в Secret-kitchen G VOLGOGRAD RUS
+2025-04-24 20:33:35,178 - INFO - Категория Оплата в Secret-kitchen G VOLGOGRAD RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,180 - INFO - Начало обработки категории: Оплата в TABAK Krasnogorsk RUS
+2025-04-24 20:33:35,204 - INFO - Категория Оплата в TABAK Krasnogorsk RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,206 - INFO - Начало обработки категории: Оплата в TABAK MOSCOW RUS
+2025-04-24 20:33:35,228 - INFO - Категория Оплата в TABAK MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,229 - INFO - Начало обработки категории: Оплата в TABAK TEKHNOPARK MOSCOW RUS
+2025-04-24 20:33:35,252 - INFO - Категория Оплата в TABAK TEKHNOPARK MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,253 - INFO - Начало обработки категории: Оплата в TANUKI DOSTAVKA SANKT- PETERBU RUS
+2025-04-24 20:33:35,276 - INFO - Категория Оплата в TANUKI DOSTAVKA SANKT- PETERBU RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,277 - INFO - Начало обработки категории: Оплата в TSENTR TRIKHOLOGII MOSKVA RUS
+2025-04-24 20:33:35,300 - INFO - Категория Оплата в TSENTR TRIKHOLOGII MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,301 - INFO - Начало обработки категории: Оплата в VELLUTO MOSCOW RUS
+2025-04-24 20:33:35,323 - INFO - Категория Оплата в VELLUTO MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,325 - INFO - Начало обработки категории: Оплата в VK*VK Combo Moscow RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 19
+2025-04-24 20:33:35,348 - INFO - Категория Оплата в VK*VK Combo Moscow RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 19 обработана за 0.0 сек.
+2025-04-24 20:33:35,349 - INFO - Начало обработки категории: Оплата в VK*VK Music Saint-Petersb RUS
+2025-04-24 20:33:35,372 - INFO - Категория Оплата в VK*VK Music Saint-Petersb RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,373 - INFO - Начало обработки категории: Оплата в VK.COM/EDVAZNAKOMI
+2025-04-24 20:33:35,395 - INFO - Категория Оплата в VK.COM/EDVAZNAKOMI обработана за 0.0 сек.
+2025-04-24 20:33:35,396 - INFO - Начало обработки категории: Оплата в VKUSNOITOCHKA_ MOSCOW RUS
+2025-04-24 20:33:35,420 - INFO - Категория Оплата в VKUSNOITOCHKA_ MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,421 - INFO - Начало обработки категории: Оплата в VKUSVILL_902_QR
+2025-04-24 20:33:35,443 - INFO - Категория Оплата в VKUSVILL_902_QR обработана за 0.0 сек.
+2025-04-24 20:33:35,444 - INFO - Начало обработки категории: Оплата в VKUSVILL_BIOMET_1 MOSCOW RUS
+2025-04-24 20:33:35,467 - INFO - Категория Оплата в VKUSVILL_BIOMET_1 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,469 - INFO - Начало обработки категории: Оплата в VKUSVILL_KCO 902_1 MOSCOW RUS
+2025-04-24 20:33:35,493 - INFO - Категория Оплата в VKUSVILL_KCO 902_1 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,495 - INFO - Начало обработки категории: Оплата в VKUSVILL_KCO 902_1 MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 8
+2025-04-24 20:33:35,519 - INFO - Категория Оплата в VKUSVILL_KCO 902_1 MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 8 обработана за 0.0 сек.
+2025-04-24 20:33:35,520 - INFO - Начало обработки категории: Оплата в VKUSVILL_KCO 902_2 MOSCOW RUS
+2025-04-24 20:33:35,543 - INFO - Категория Оплата в VKUSVILL_KCO 902_2 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,544 - INFO - Начало обработки категории: Оплата в VKUSVILL_KCO 902_3 MOSCOW RUS
+2025-04-24 20:33:35,566 - INFO - Категория Оплата в VKUSVILL_KCO 902_3 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,566 - INFO - Начало обработки категории: Оплата в VKUSVILL_KSO__1 MOSCOW RUS
+2025-04-24 20:33:35,593 - INFO - Категория Оплата в VKUSVILL_KSO__1 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,594 - INFO - Начало обработки категории: Оплата в VKUSVILL_KSO__2 MOSCOW RUS
+2025-04-24 20:33:35,617 - INFO - Категория Оплата в VKUSVILL_KSO__2 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,618 - INFO - Начало обработки категории: Оплата в VKUSVILL_KSO__2 MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 16
+2025-04-24 20:33:35,641 - INFO - Категория Оплата в VKUSVILL_KSO__2 MOSCOW RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 16 обработана за 0.0 сек.
+2025-04-24 20:33:35,642 - INFO - Начало обработки категории: Оплата в VKUSVILL__1 MOSCOW RUS
+2025-04-24 20:33:35,666 - INFO - Категория Оплата в VKUSVILL__1 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,667 - INFO - Начало обработки категории: Оплата в VKUSVILL__3 MOSCOW RUS
+2025-04-24 20:33:35,690 - INFO - Категория Оплата в VKUSVILL__3 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,692 - INFO - Начало обработки категории: Оплата в VKUSVILL__QR
+2025-04-24 20:33:35,715 - INFO - Категория Оплата в VKUSVILL__QR обработана за 0.0 сек.
+2025-04-24 20:33:35,717 - INFO - Начало обработки категории: Оплата в VKUSVILL__QR АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 9
+2025-04-24 20:33:35,738 - INFO - Категория Оплата в VKUSVILL__QR АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 9 обработана за 0.0 сек.
+2025-04-24 20:33:35,739 - INFO - Начало обработки категории: Оплата в VV__KCO_4 MOSCOW RUS
+2025-04-24 20:33:35,763 - INFO - Категория Оплата в VV__KCO_4 MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,764 - INFO - Начало обработки категории: Оплата в Y.M*SIMPLESMM MOSCOW RUS
+2025-04-24 20:33:35,786 - INFO - Категория Оплата в Y.M*SIMPLESMM MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,788 - INFO - Начало обработки категории: Оплата в YM*SIMPLESMM MOSCOW RUS
+2025-04-24 20:33:35,818 - INFO - Категория Оплата в YM*SIMPLESMM MOSCOW RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,820 - INFO - Начало обработки категории: Оплата в YM*YANDEX.AFISHA
+2025-04-24 20:33:35,842 - INFO - Категория Оплата в YM*YANDEX.AFISHA обработана за 0.0 сек.
+2025-04-24 20:33:35,844 - INFO - Начало обработки категории: Оплата в YM*market.yandex g. Moskva RUS
+2025-04-24 20:33:35,866 - INFO - Категория Оплата в YM*market.yandex g. Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,867 - INFO - Начало обработки категории: Оплата в YM*simplebot KOROLEV RUS
+2025-04-24 20:33:35,892 - INFO - Категория Оплата в YM*simplebot KOROLEV RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,893 - INFO - Начало обработки категории: Оплата в Yandex Eda Moskva RUS
+2025-04-24 20:33:35,919 - INFO - Категория Оплата в Yandex Eda Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,920 - INFO - Начало обработки категории: Оплата в Yandex.Lavka Moskva RUS
+2025-04-24 20:33:35,944 - INFO - Категория Оплата в Yandex.Lavka Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,945 - INFO - Начало обработки категории: Оплата в Yandex.Plus Moskva RUS
+2025-04-24 20:33:35,969 - INFO - Категория Оплата в Yandex.Plus Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,970 - INFO - Начало обработки категории: Оплата в YandexGo Moskva RUS
+2025-04-24 20:33:35,993 - INFO - Категория Оплата в YandexGo Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:35,995 - INFO - Начало обработки категории: Оплата в drinkit MOSKVA RUS
+2025-04-24 20:33:36,021 - INFO - Категория Оплата в drinkit MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:36,023 - INFO - Начало обработки категории: Оплата в drinkit MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 11
+2025-04-24 20:33:36,046 - INFO - Категория Оплата в drinkit MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 11 обработана за 0.0 сек.
+2025-04-24 20:33:36,047 - INFO - Начало обработки категории: Оплата в drinkit MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 6
+2025-04-24 20:33:36,069 - INFO - Категория Оплата в drinkit MOSKVA RUS АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 6 обработана за 0.0 сек.
+2025-04-24 20:33:36,071 - INFO - Начало обработки категории: Оплата в drinkit Moskva RUS
+2025-04-24 20:33:36,093 - INFO - Категория Оплата в drinkit Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:36,094 - INFO - Начало обработки категории: Оплата в secret-kitchen MOSKVA RUS
+2025-04-24 20:33:36,117 - INFO - Категория Оплата в secret-kitchen MOSKVA RUS обработана за 0.0 сек.
+2025-04-24 20:33:36,118 - INFO - Начало обработки категории: Оплата в ugoloc.ru Moskva RUS
+2025-04-24 20:33:36,141 - INFO - Категория Оплата в ugoloc.ru Moskva RUS обработана за 0.0 сек.
+2025-04-24 20:33:36,142 - INFO - Начало обработки категории: Оплата в vkusvill CHERNOGOLOVKA RUS
+2025-04-24 20:33:36,164 - INFO - Категория Оплата в vkusvill CHERNOGOLOVKA RUS обработана за 0.0 сек.
+2025-04-24 20:33:36,165 - INFO - Начало обработки категории: Оплата в Вино и другие лекар_P_QR
+2025-04-24 20:33:36,188 - INFO - Категория Оплата в Вино и другие лекар_P_QR обработана за 0.0 сек.
+2025-04-24 20:33:36,189 - INFO - Начало обработки категории: Оплата в МАГНОЛИЯ_P_QR
+2025-04-24 20:33:36,213 - INFO - Категория Оплата в МАГНОЛИЯ_P_QR обработана за 0.0 сек.
+2025-04-24 20:33:36,213 - INFO - Начало обработки категории: Оплата в НЕТМОНЕТ АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 18
+2025-04-24 20:33:36,235 - INFO - Категория Оплата в НЕТМОНЕТ АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 18 обработана за 0.0 сек.
+2025-04-24 20:33:36,236 - INFO - Начало обработки категории: Оплата в ООО ПРОДАМУС
+2025-04-24 20:33:36,260 - INFO - Категория Оплата в ООО ПРОДАМУС обработана за 0.0 сек.
+2025-04-24 20:33:36,261 - INFO - Начало обработки категории: Оплата в Перекресток АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 3
+2025-04-24 20:33:36,285 - INFO - Категория Оплата в Перекресток АО «ТБанк» универсальная лицензия Банка России №, к/с в ГУ Банка России по ЦФО БИК ИНН КПП 3 обработана за 0.0 сек.
+2025-04-24 20:33:36,287 - INFO - Начало обработки категории: Оплата в Сервисы Яндекса
+2025-04-24 20:33:36,312 - INFO - Категория Оплата в Сервисы Яндекса обработана за 0.0 сек.
+2025-04-24 20:33:36,313 - INFO - Начало обработки категории: Оплата в Табак ТЕХНОПАРК_P_QR
+2025-04-24 20:33:36,338 - INFO - Категория Оплата в Табак ТЕХНОПАРК_P_QR обработана за 0.0 сек.
+2025-04-24 20:33:36,339 - INFO - Начало обработки категории: Оплата услуг mBank.AKADO
+2025-04-24 20:33:36,360 - INFO - Категория Оплата услуг mBank.AKADO обработана за 0.0 сек.
+2025-04-24 20:33:36,361 - INFO - Начало обработки категории: Оплата услуг mBank.MTS
+2025-04-24 20:33:36,385 - INFO - Категория Оплата услуг mBank.MTS обработана за 0.0 сек.
+2025-04-24 20:33:36,387 - INFO - Начало обработки категории: Пополнение брокерского счета
+2025-04-24 20:33:36,408 - INFO - Категория Пополнение брокерского счета обработана за 0.0 сек.
+2025-04-24 20:33:36,421 - INFO - BEGIN (implicit)
+2025-04-24 20:33:36,421 - INFO - SELECT users.id, users.telegram_id, users.created_at, users.salary 
+FROM users 
+WHERE users.telegram_id = ?
+2025-04-24 20:33:36,421 - INFO - [cached since 59.64s ago] ('1470579671',)
+2025-04-24 20:33:36,423 - INFO - ROLLBACK
+2025-04-24 20:33:36,582 - INFO - Update id=641929855 is handled. Duration 5983 ms by bot id=7956303101
+2025-04-24 20:37:44,459 - INFO - BEGIN (implicit)
+2025-04-24 20:37:44,460 - INFO - COMMIT
+2025-04-24 20:37:44,671 - INFO - Start polling
+2025-04-24 20:37:44,746 - INFO - Run polling for bot @fAInance_bot id=7956303101 - 'fAInance'
+2025-04-24 20:37:47,132 - INFO - Update id=641929856 is handled. Duration 250 ms by bot id=7956303101
+2025-04-24 20:37:59,730 - INFO - Update id=641929857 is not handled. Duration 0 ms by bot id=7956303101
+2025-04-24 20:38:06,118 - INFO - Update id=641929858 is handled. Duration 93 ms by bot id=7956303101
+2025-04-24 20:38:55,514 - INFO - Update id=641929859 is handled. Duration 172 ms by bot id=7956303101
+2025-04-24 20:39:05,382 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-24 20:39:08,176 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-24 20:39:10,853 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-24 20:39:13,478 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-24 20:39:16,128 - INFO - Update id=641929860 is handled. Duration 11094 ms by bot id=7956303101
+2025-04-24 20:39:16,252 - ERROR - Ошибка при сохранении входного датафрейма: [Errno 13] Permission denied: 'boosting_input_all_categories.xlsx'
+2025-04-24 20:39:16,253 - INFO - Начало обработки категории: Аптеки
+2025-04-24 20:39:16,254 - ERROR - Ошибка в категории Аптеки: Недостаточно данных для обучения
+2025-04-24 20:39:16,254 - INFO - Начало обработки категории: Бытовые услуги
+2025-04-24 20:39:16,255 - ERROR - Ошибка в категории Бытовые услуги: Недостаточно данных для обучения
+2025-04-24 20:39:16,255 - INFO - Начало обработки категории: ЖКХ; связь; интернет
+2025-04-24 20:39:16,257 - ERROR - Ошибка в категории ЖКХ; связь; интернет: Недостаточно данных для обучения
+2025-04-24 20:39:16,257 - INFO - Начало обработки категории: Кафе, рестораны, фастфуд
+2025-04-24 20:39:16,258 - ERROR - Ошибка в категории Кафе, рестораны, фастфуд: Недостаточно данных для обучения
+2025-04-24 20:39:16,259 - INFO - Начало обработки категории: Комиссия
+2025-04-24 20:39:16,260 - ERROR - Ошибка в категории Комиссия: Недостаточно данных для обучения
+2025-04-24 20:39:16,260 - INFO - Начало обработки категории: Медицинские услуги
+2025-04-24 20:39:16,261 - ERROR - Ошибка в категории Медицинские услуги: Недостаточно данных для обучения
+2025-04-24 20:39:16,261 - INFO - Начало обработки категории: Одежда и
+2025-04-24 20:39:16,263 - ERROR - Ошибка в категории Одежда и: Недостаточно данных для обучения
+2025-04-24 20:39:16,263 - INFO - Начало обработки категории: Одежда и обувь
+2025-04-24 20:39:16,264 - ERROR - Ошибка в категории Одежда и обувь: Недостаточно данных для обучения
+2025-04-24 20:39:16,264 - INFO - Начало обработки категории: Перевозка, доставка
+2025-04-24 20:39:16,265 - ERROR - Ошибка в категории Перевозка, доставка: Недостаточно данных для обучения
+2025-04-24 20:39:16,266 - INFO - Начало обработки категории: Путешествия
+2025-04-24 20:39:16,266 - ERROR - Ошибка в категории Путешествия: Недостаточно данных для обучения
+2025-04-24 20:39:16,266 - INFO - Начало обработки категории: Супермаркеты
+2025-04-24 20:39:16,267 - ERROR - Ошибка в категории Супермаркеты: Недостаточно данных для обучения
+2025-04-24 20:39:16,268 - INFO - Начало обработки категории: Такси и каршеринг
+2025-04-24 20:39:16,268 - ERROR - Ошибка в категории Такси и каршеринг: Недостаточно данных для обучения
+2025-04-24 20:39:16,268 - INFO - Начало обработки категории: Транспорт
+2025-04-24 20:39:16,270 - ERROR - Ошибка в категории Транспорт: Недостаточно данных для обучения
+2025-04-24 20:39:16,271 - INFO - Начало обработки категории: Хобби и развлечения
+2025-04-24 20:39:16,272 - ERROR - Ошибка в категории Хобби и развлечения: Недостаточно данных для обучения
+2025-04-24 20:39:16,272 - INFO - Update id=641929864 is not handled. Duration 141 ms by bot id=7956303101
+2025-04-24 20:39:16,272 - ERROR - Cause exception while process update id=641929864 by bot id=7956303101
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "c:\Users\Starb\Desktop\projects\dolg_karin\handlers.py", line 80, in finish_upload
+    total = sum(forecast.values())
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+2025-04-24 20:39:16,297 - INFO - Update id=641929862 is handled. Duration 11266 ms by bot id=7956303101
+2025-04-24 20:39:16,297 - INFO - Update id=641929861 is handled. Duration 11266 ms by bot id=7956303101
+2025-04-24 20:39:16,297 - INFO - Update id=641929863 is handled. Duration 11266 ms by bot id=7956303101
+2025-04-24 20:39:37,345 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-24 20:39:40,072 - INFO - Update id=641929865 is handled. Duration 3093 ms by bot id=7956303101
+2025-04-24 20:39:44,502 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-24 20:39:47,414 - INFO - Update id=641929866 is handled. Duration 3217 ms by bot id=7956303101
+2025-04-24 20:39:52,286 - ERROR - Ошибка при сохранении входного датафрейма: [Errno 13] Permission denied: 'boosting_input_all_categories.xlsx'
+2025-04-24 20:39:52,286 - INFO - Начало обработки категории: Аптеки
+2025-04-24 20:39:52,287 - ERROR - Ошибка в категории Аптеки: Недостаточно данных для обучения
+2025-04-24 20:39:52,287 - INFO - Начало обработки категории: Бытовые услуги
+2025-04-24 20:39:52,288 - ERROR - Ошибка в категории Бытовые услуги: Недостаточно данных для обучения
+2025-04-24 20:39:52,288 - INFO - Начало обработки категории: ЖКХ; связь; интернет
+2025-04-24 20:39:52,289 - ERROR - Ошибка в категории ЖКХ; связь; интернет: Недостаточно данных для обучения
+2025-04-24 20:39:52,289 - INFO - Начало обработки категории: Кафе, рестораны, фастфуд
+2025-04-24 20:39:52,290 - ERROR - Ошибка в категории Кафе, рестораны, фастфуд: Недостаточно данных для обучения
+2025-04-24 20:39:52,290 - INFO - Начало обработки категории: Комиссия
+2025-04-24 20:39:52,291 - ERROR - Ошибка в категории Комиссия: Недостаточно данных для обучения
+2025-04-24 20:39:52,291 - INFO - Начало обработки категории: Медицинские услуги
+2025-04-24 20:39:52,292 - ERROR - Ошибка в категории Медицинские услуги: Недостаточно данных для обучения
+2025-04-24 20:39:52,292 - INFO - Начало обработки категории: Одежда и
+2025-04-24 20:39:52,293 - ERROR - Ошибка в категории Одежда и: Недостаточно данных для обучения
+2025-04-24 20:39:52,294 - INFO - Начало обработки категории: Одежда и обувь
+2025-04-24 20:39:52,294 - ERROR - Ошибка в категории Одежда и обувь: Недостаточно данных для обучения
+2025-04-24 20:39:52,295 - INFO - Начало обработки категории: Перевозка, доставка
+2025-04-24 20:39:52,295 - ERROR - Ошибка в категории Перевозка, доставка: Недостаточно данных для обучения
+2025-04-24 20:39:52,296 - INFO - Начало обработки категории: Путешествия
+2025-04-24 20:39:52,297 - ERROR - Ошибка в категории Путешествия: Недостаточно данных для обучения
+2025-04-24 20:39:52,297 - INFO - Начало обработки категории: Супермаркеты
+2025-04-24 20:39:52,298 - ERROR - Ошибка в категории Супермаркеты: Недостаточно данных для обучения
+2025-04-24 20:39:52,298 - INFO - Начало обработки категории: Такси и каршеринг
+2025-04-24 20:39:52,299 - ERROR - Ошибка в категории Такси и каршеринг: Недостаточно данных для обучения
+2025-04-24 20:39:52,299 - INFO - Начало обработки категории: Транспорт
+2025-04-24 20:39:52,301 - ERROR - Ошибка в категории Транспорт: Недостаточно данных для обучения
+2025-04-24 20:39:52,301 - INFO - Начало обработки категории: Хобби и развлечения
+2025-04-24 20:39:52,302 - ERROR - Ошибка в категории Хобби и развлечения: Недостаточно данных для обучения
+2025-04-24 20:39:52,302 - INFO - Update id=641929867 is not handled. Duration 16 ms by bot id=7956303101
+2025-04-24 20:39:52,302 - ERROR - Cause exception while process update id=641929867 by bot id=7956303101
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "c:\Users\Starb\Desktop\projects\dolg_karin\handlers.py", line 80, in finish_upload
+    total = sum(forecast.values())
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
