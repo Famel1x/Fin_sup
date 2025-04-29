@@ -946,3 +946,360 @@ Traceback (most recent call last):
   File "c:\Users\Starb\Desktop\projects\dolg_karin\handlers.py", line 80, in finish_upload
     total = sum(forecast.values())
 TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+2025-04-29 20:18:52,720 - INFO - BEGIN (implicit)
+2025-04-29 20:18:52,721 - INFO - COMMIT
+2025-04-29 20:18:52,940 - INFO - Start polling
+2025-04-29 20:18:53,007 - INFO - Run polling for bot @fAInance_bot id=7956303101 - 'fAInance'
+2025-04-29 20:19:01,949 - INFO - Update id=641929868 is handled. Duration 343 ms by bot id=7956303101
+2025-04-29 20:19:11,009 - INFO - Update id=641929869 is not handled. Duration 0 ms by bot id=7956303101
+2025-04-29 20:19:11,009 - INFO - Update id=641929870 is not handled. Duration 0 ms by bot id=7956303101
+2025-04-29 20:19:11,009 - INFO - Update id=641929871 is not handled. Duration 0 ms by bot id=7956303101
+2025-04-29 20:19:11,009 - INFO - Update id=641929872 is not handled. Duration 0 ms by bot id=7956303101
+2025-04-29 20:19:19,769 - INFO - Update id=641929873 is not handled. Duration 0 ms by bot id=7956303101
+2025-04-29 20:21:14,843 - INFO - Update id=641929874 is handled. Duration 156 ms by bot id=7956303101
+2025-04-29 20:21:17,600 - INFO - Update id=641929875 is handled. Duration 108 ms by bot id=7956303101
+2025-04-29 20:21:24,163 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:21:27,083 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:21:29,788 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:21:32,565 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:21:35,287 - INFO - Update id=641929876 is handled. Duration 11438 ms by bot id=7956303101
+2025-04-29 20:21:35,377 - INFO - Update id=641929878 is handled. Duration 11532 ms by bot id=7956303101
+2025-04-29 20:21:35,411 - INFO - Update id=641929879 is handled. Duration 11563 ms by bot id=7956303101
+2025-04-29 20:21:35,429 - INFO - Update id=641929877 is handled. Duration 11577 ms by bot id=7956303101
+2025-04-29 20:22:31,103 - INFO - BEGIN (implicit)
+2025-04-29 20:22:31,103 - INFO - COMMIT
+2025-04-29 20:22:31,312 - INFO - Start polling
+2025-04-29 20:22:31,377 - INFO - Run polling for bot @fAInance_bot id=7956303101 - 'fAInance'
+2025-04-29 20:22:33,237 - INFO - Update id=641929881 is handled. Duration 297 ms by bot id=7956303101
+2025-04-29 20:22:37,778 - INFO - Update id=641929882 is handled. Duration 94 ms by bot id=7956303101
+2025-04-29 20:22:44,689 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:22:47,893 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:22:50,854 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:22:53,936 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:22:56,943 - INFO - Update id=641929886 is handled. Duration 12577 ms by bot id=7956303101
+2025-04-29 20:22:56,943 - INFO - Update id=641929885 is handled. Duration 12577 ms by bot id=7956303101
+2025-04-29 20:22:56,943 - INFO - Update id=641929883 is handled. Duration 12577 ms by bot id=7956303101
+2025-04-29 20:22:57,036 - INFO - Update id=641929884 is handled. Duration 12672 ms by bot id=7956303101
+2025-04-29 20:23:35,455 - INFO - Полный датафрейм (каждый день \xd7 каждая категория) сохранён \u2705
+2025-04-29 20:23:35,456 - INFO - Начало обработки категории: Аптеки
+2025-04-29 20:23:35,458 - ERROR - Ошибка в категории Аптеки: Недостаточно данных для обучения
+2025-04-29 20:23:35,459 - INFO - Начало обработки категории: Бытовые услуги
+2025-04-29 20:23:35,460 - ERROR - Ошибка в категории Бытовые услуги: Недостаточно данных для обучения
+2025-04-29 20:23:35,460 - INFO - Начало обработки категории: ЖКХ; связь; интернет
+2025-04-29 20:23:35,461 - ERROR - Ошибка в категории ЖКХ; связь; интернет: Недостаточно данных для обучения
+2025-04-29 20:23:35,462 - INFO - Начало обработки категории: Кафе, рестораны, фастфуд
+2025-04-29 20:23:35,463 - ERROR - Ошибка в категории Кафе, рестораны, фастфуд: Недостаточно данных для обучения
+2025-04-29 20:23:35,463 - INFO - Начало обработки категории: Комиссия
+2025-04-29 20:23:35,464 - ERROR - Ошибка в категории Комиссия: Недостаточно данных для обучения
+2025-04-29 20:23:35,464 - INFO - Начало обработки категории: Медицинские услуги
+2025-04-29 20:23:35,465 - ERROR - Ошибка в категории Медицинские услуги: Недостаточно данных для обучения
+2025-04-29 20:23:35,465 - INFO - Начало обработки категории: Одежда и
+2025-04-29 20:23:35,466 - ERROR - Ошибка в категории Одежда и: Недостаточно данных для обучения
+2025-04-29 20:23:35,466 - INFO - Начало обработки категории: Одежда и обувь
+2025-04-29 20:23:35,467 - ERROR - Ошибка в категории Одежда и обувь: Недостаточно данных для обучения
+2025-04-29 20:23:35,467 - INFO - Начало обработки категории: Перевозка, доставка
+2025-04-29 20:23:35,468 - ERROR - Ошибка в категории Перевозка, доставка: Недостаточно данных для обучения
+2025-04-29 20:23:35,468 - INFO - Начало обработки категории: Путешествия
+2025-04-29 20:23:35,469 - ERROR - Ошибка в категории Путешествия: Недостаточно данных для обучения
+2025-04-29 20:23:35,469 - INFO - Начало обработки категории: Супермаркеты
+2025-04-29 20:23:35,470 - ERROR - Ошибка в категории Супермаркеты: Недостаточно данных для обучения
+2025-04-29 20:23:35,471 - INFO - Начало обработки категории: Такси и каршеринг
+2025-04-29 20:23:35,471 - ERROR - Ошибка в категории Такси и каршеринг: Недостаточно данных для обучения
+2025-04-29 20:23:35,472 - INFO - Начало обработки категории: Транспорт
+2025-04-29 20:23:35,473 - ERROR - Ошибка в категории Транспорт: Недостаточно данных для обучения
+2025-04-29 20:23:35,473 - INFO - Начало обработки категории: Хобби и развлечения
+2025-04-29 20:23:35,474 - ERROR - Ошибка в категории Хобби и развлечения: Недостаточно данных для обучения
+2025-04-29 20:23:35,474 - INFO - Update id=641929887 is not handled. Duration 233 ms by bot id=7956303101
+2025-04-29 20:23:35,474 - ERROR - Cause exception while process update id=641929887 by bot id=7956303101
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "c:\Users\Starb\Desktop\projects\dolg_karin\handlers.py", line 81, in finish_upload
+    total = sum(forecast.values())
+TypeError: unsupported operand type(s) for +: 'int' and 'NoneType'
+2025-04-29 20:26:11,646 - INFO - BEGIN (implicit)
+2025-04-29 20:26:11,647 - INFO - COMMIT
+2025-04-29 20:26:11,824 - INFO - Start polling
+2025-04-29 20:26:11,881 - INFO - Run polling for bot @fAInance_bot id=7956303101 - 'fAInance'
+2025-04-29 20:26:12,918 - INFO - Update id=641929888 is not handled. Duration 0 ms by bot id=7956303101
+2025-04-29 20:26:18,465 - INFO - Update id=641929889 is handled. Duration 233 ms by bot id=7956303101
+2025-04-29 20:26:23,790 - INFO - Update id=641929890 is not handled. Duration 0 ms by bot id=7956303101
+2025-04-29 20:26:23,790 - ERROR - Cause exception while process update id=641929890 by bot id=7956303101
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "c:\Users\Starb\Desktop\projects\dolg_karin\handlers.py", line 31, in set_months
+    months = int(message.text)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-04-29 20:26:23,792 - INFO - Update id=641929891 is not handled. Duration 0 ms by bot id=7956303101
+2025-04-29 20:26:23,792 - ERROR - Cause exception while process update id=641929891 by bot id=7956303101
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "c:\Users\Starb\Desktop\projects\dolg_karin\handlers.py", line 31, in set_months
+    months = int(message.text)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-04-29 20:26:23,792 - INFO - Update id=641929892 is not handled. Duration 0 ms by bot id=7956303101
+2025-04-29 20:26:23,792 - ERROR - Cause exception while process update id=641929892 by bot id=7956303101
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "c:\Users\Starb\Desktop\projects\dolg_karin\handlers.py", line 31, in set_months
+    months = int(message.text)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-04-29 20:26:23,793 - INFO - Update id=641929893 is not handled. Duration 14 ms by bot id=7956303101
+2025-04-29 20:26:23,793 - ERROR - Cause exception while process update id=641929893 by bot id=7956303101
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+Traceback (most recent call last):
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\Starb\Desktop\projects\dolg_karin\.venv\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "c:\Users\Starb\Desktop\projects\dolg_karin\handlers.py", line 31, in set_months
+    months = int(message.text)
+TypeError: int() argument must be a string, a bytes-like object or a real number, not 'NoneType'
+2025-04-29 20:28:17,429 - INFO - BEGIN (implicit)
+2025-04-29 20:28:17,430 - INFO - COMMIT
+2025-04-29 20:28:17,615 - INFO - Start polling
+2025-04-29 20:28:17,675 - INFO - Run polling for bot @fAInance_bot id=7956303101 - 'fAInance'
+2025-04-29 20:28:22,307 - INFO - Update id=641929894 is handled. Duration 186 ms by bot id=7956303101
+2025-04-29 20:28:23,740 - INFO - Update id=641929895 is handled. Duration 77 ms by bot id=7956303101
+2025-04-29 20:28:28,947 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:28:31,970 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:28:34,946 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:28:37,858 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:28:40,748 - INFO - Update id=641929896 is handled. Duration 12047 ms by bot id=7956303101
+2025-04-29 20:28:40,846 - INFO - Update id=641929898 is handled. Duration 12140 ms by bot id=7956303101
+2025-04-29 20:28:40,880 - INFO - Update id=641929897 is handled. Duration 12172 ms by bot id=7956303101
+2025-04-29 20:28:40,895 - INFO - Update id=641929899 is handled. Duration 12187 ms by bot id=7956303101
+2025-04-29 20:28:52,164 - INFO - Полный датафрейм (каждый день \xd7 каждая категория) сохранён \u2705
+2025-04-29 20:28:52,164 - INFO - Начало обработки категории: Аптеки
+2025-04-29 20:28:52,165 - ERROR - Ошибка в категории Аптеки: Недостаточно данных для обучения
+2025-04-29 20:28:52,166 - INFO - Начало обработки категории: Бытовые услуги
+2025-04-29 20:28:52,167 - ERROR - Ошибка в категории Бытовые услуги: Недостаточно данных для обучения
+2025-04-29 20:28:52,167 - INFO - Начало обработки категории: ЖКХ; связь; интернет
+2025-04-29 20:28:52,168 - ERROR - Ошибка в категории ЖКХ; связь; интернет: Недостаточно данных для обучения
+2025-04-29 20:28:52,168 - INFO - Начало обработки категории: Кафе, рестораны, фастфуд
+2025-04-29 20:28:52,169 - ERROR - Ошибка в категории Кафе, рестораны, фастфуд: Недостаточно данных для обучения
+2025-04-29 20:28:52,169 - INFO - Начало обработки категории: Комиссия
+2025-04-29 20:28:52,170 - ERROR - Ошибка в категории Комиссия: Недостаточно данных для обучения
+2025-04-29 20:28:52,170 - INFO - Начало обработки категории: Медицинские услуги
+2025-04-29 20:28:52,171 - ERROR - Ошибка в категории Медицинские услуги: Недостаточно данных для обучения
+2025-04-29 20:28:52,171 - INFO - Начало обработки категории: Одежда и
+2025-04-29 20:28:52,172 - ERROR - Ошибка в категории Одежда и: Недостаточно данных для обучения
+2025-04-29 20:28:52,173 - INFO - Начало обработки категории: Одежда и обувь
+2025-04-29 20:28:52,173 - ERROR - Ошибка в категории Одежда и обувь: Недостаточно данных для обучения
+2025-04-29 20:28:52,174 - INFO - Начало обработки категории: Перевозка, доставка
+2025-04-29 20:28:52,175 - ERROR - Ошибка в категории Перевозка, доставка: Недостаточно данных для обучения
+2025-04-29 20:28:52,175 - INFO - Начало обработки категории: Путешествия
+2025-04-29 20:28:52,176 - ERROR - Ошибка в категории Путешествия: Недостаточно данных для обучения
+2025-04-29 20:28:52,176 - INFO - Начало обработки категории: Супермаркеты
+2025-04-29 20:28:52,177 - ERROR - Ошибка в категории Супермаркеты: Недостаточно данных для обучения
+2025-04-29 20:28:52,177 - INFO - Начало обработки категории: Такси и каршеринг
+2025-04-29 20:28:52,178 - ERROR - Ошибка в категории Такси и каршеринг: Недостаточно данных для обучения
+2025-04-29 20:28:52,178 - INFO - Начало обработки категории: Транспорт
+2025-04-29 20:28:52,179 - ERROR - Ошибка в категории Транспорт: Недостаточно данных для обучения
+2025-04-29 20:28:52,179 - INFO - Начало обработки категории: Хобби и развлечения
+2025-04-29 20:28:52,180 - ERROR - Ошибка в категории Хобби и развлечения: Недостаточно данных для обучения
+2025-04-29 20:28:52,302 - INFO - Update id=641929900 is handled. Duration 327 ms by bot id=7956303101
+2025-04-29 20:30:09,347 - INFO - BEGIN (implicit)
+2025-04-29 20:30:09,348 - INFO - COMMIT
+2025-04-29 20:30:09,534 - INFO - Start polling
+2025-04-29 20:30:09,592 - INFO - Run polling for bot @fAInance_bot id=7956303101 - 'fAInance'
+2025-04-29 20:30:11,827 - INFO - Update id=641929902 is handled. Duration 266 ms by bot id=7956303101
+2025-04-29 20:30:15,960 - INFO - Update id=641929903 is handled. Duration 187 ms by bot id=7956303101
+2025-04-29 20:30:17,991 - INFO - Update id=641929904 is handled. Duration 125 ms by bot id=7956303101
+2025-04-29 20:30:28,369 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:30:31,137 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:30:33,917 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:30:36,625 - WARNING - Using CPU. Note: This module is much faster with a GPU.
+2025-04-29 20:30:39,318 - INFO - Update id=641929905 is handled. Duration 11186 ms by bot id=7956303101
+2025-04-29 20:30:39,409 - INFO - Update id=641929908 is handled. Duration 11281 ms by bot id=7956303101
+2025-04-29 20:30:39,435 - INFO - Update id=641929907 is handled. Duration 11311 ms by bot id=7956303101
+2025-04-29 20:30:39,462 - INFO - Update id=641929906 is handled. Duration 11327 ms by bot id=7956303101
+2025-04-29 20:30:46,363 - INFO - Полный датафрейм (каждый день \xd7 каждая категория) сохранён \u2705
+2025-04-29 20:30:46,364 - INFO - Начало обработки категории: Аптеки
+2025-04-29 20:30:46,365 - ERROR - Ошибка в категории Аптеки: Недостаточно данных для обучения
+2025-04-29 20:30:46,365 - INFO - Начало обработки категории: Бытовые услуги
+2025-04-29 20:30:46,366 - ERROR - Ошибка в категории Бытовые услуги: Недостаточно данных для обучения
+2025-04-29 20:30:46,366 - INFO - Начало обработки категории: ЖКХ; связь; интернет
+2025-04-29 20:30:46,367 - ERROR - Ошибка в категории ЖКХ; связь; интернет: Недостаточно данных для обучения
+2025-04-29 20:30:46,367 - INFO - Начало обработки категории: Кафе, рестораны, фастфуд
+2025-04-29 20:30:46,368 - ERROR - Ошибка в категории Кафе, рестораны, фастфуд: Недостаточно данных для обучения
+2025-04-29 20:30:46,369 - INFO - Начало обработки категории: Комиссия
+2025-04-29 20:30:46,369 - ERROR - Ошибка в категории Комиссия: Недостаточно данных для обучения
+2025-04-29 20:30:46,370 - INFO - Начало обработки категории: Медицинские услуги
+2025-04-29 20:30:46,370 - ERROR - Ошибка в категории Медицинские услуги: Недостаточно данных для обучения
+2025-04-29 20:30:46,371 - INFO - Начало обработки категории: Одежда и
+2025-04-29 20:30:46,372 - ERROR - Ошибка в категории Одежда и: Недостаточно данных для обучения
+2025-04-29 20:30:46,372 - INFO - Начало обработки категории: Одежда и обувь
+2025-04-29 20:30:46,373 - ERROR - Ошибка в категории Одежда и обувь: Недостаточно данных для обучения
+2025-04-29 20:30:46,373 - INFO - Начало обработки категории: Перевозка, доставка
+2025-04-29 20:30:46,374 - ERROR - Ошибка в категории Перевозка, доставка: Недостаточно данных для обучения
+2025-04-29 20:30:46,374 - INFO - Начало обработки категории: Путешествия
+2025-04-29 20:30:46,375 - ERROR - Ошибка в категории Путешествия: Недостаточно данных для обучения
+2025-04-29 20:30:46,375 - INFO - Начало обработки категории: Супермаркеты
+2025-04-29 20:30:46,376 - ERROR - Ошибка в категории Супермаркеты: Недостаточно данных для обучения
+2025-04-29 20:30:46,376 - INFO - Начало обработки категории: Такси и каршеринг
+2025-04-29 20:30:46,377 - ERROR - Ошибка в категории Такси и каршеринг: Недостаточно данных для обучения
+2025-04-29 20:30:46,377 - INFO - Начало обработки категории: Транспорт
+2025-04-29 20:30:46,378 - ERROR - Ошибка в категории Транспорт: Недостаточно данных для обучения
+2025-04-29 20:30:46,378 - INFO - Начало обработки категории: Хобби и развлечения
+2025-04-29 20:30:46,379 - ERROR - Ошибка в категории Хобби и развлечения: Недостаточно данных для обучения
+2025-04-29 20:30:46,487 - INFO - Update id=641929909 is handled. Duration 281 ms by bot id=7956303101
+2025-04-29 20:32:27,971 - INFO - BEGIN (implicit)
+2025-04-29 20:32:27,971 - INFO - COMMIT
+2025-04-29 20:32:28,179 - INFO - Start polling
+2025-04-29 20:32:28,249 - INFO - Run polling for bot @fAInance_bot id=7956303101 - 'fAInance'
