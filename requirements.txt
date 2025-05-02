@@ -35,3 +35,5 @@ httpx
 # Разработка и тесты
 python-dotenv
 pytest
+
+aiosqlite

@@ -28,11 +28,19 @@ def process_category(category_df):
         category_name = category_df['category'].iloc[0]
         logging.info(f"Начало обработки категории: {category_name}")
         
+        # Если данных недостаточно для моделирования
+        if len(category_df) < 4:
+            avg_value = category_df['amount'].mean()
+            logging.warning(f"Мало данных для категории {category_name}. Используем среднее значение: {avg_value:.2f}")
+            return avg_value
+        
         # Подготовка данных
         processed = create_features(category_df.set_index('date')[['amount']])
         if len(processed) < 4:
-            raise ValueError("Недостаточно данных для обучения")
-            
+            avg_value = category_df['amount'].mean()
+            logging.warning(f"После создания признаков мало данных для {category_name}. Используем среднее: {avg_value:.2f}")
+            return avg_value
+
         X = processed.drop('amount', axis=1)
         y = processed['amount']
         
