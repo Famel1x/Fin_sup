@@ -130,6 +130,13 @@ async def finish_upload(message: Message, state: FSMContext):
         devided_total = total / 30
         text_lines.append(f"\n📈 Общий прогноз: {devided_total:.2f} ₽")
 
+        text_lines.append(f"\n📈 прогноз на неделю")
+        for cat, value in valid_forecast.items():
+            devided_val = value / 4
+            text_lines.append(f"• {cat}: {devided_val:.2f} ₽")
+        devided_total = total / 4
+        text_lines.append(f"\n📈 Общий прогноз: {devided_total:.2f} ₽")
+
         text_lines.append(f"\n📈 прогноз на месяц")
         for cat, value in valid_forecast.items():
             text_lines.append(f"• {cat}: {value:.2f} ₽")
