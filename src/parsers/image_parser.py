@@ -1,6 +1,8 @@
 # src/parsers/image_parser.py
 import easyocr
 from typing import List, Tuple
+import logging
+
 
 def parse_image(file_path: str) -> List[Tuple[str, float]]:
     try:
@@ -40,5 +42,5 @@ def parse_image(file_path: str) -> List[Tuple[str, float]]:
 
         return categories
     except Exception as e:
-        print(f"Ошибка при парсинге изображения: {e}")
+        logging.error(f"ошибка при парсинге изображения {e}")
         return []

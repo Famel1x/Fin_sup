@@ -11,6 +11,8 @@ import openai
 from src.client.glhf_client import ask_model
 import logging
 
+from aiogram import Bot
+
 
 router = Router()
 
@@ -123,8 +125,10 @@ async def finish_upload(message: Message, state: FSMContext):
 
         text_lines = ["📊 Прогноз по всем загруженным скринам:"]
         for cat, value in valid_forecast.items():
-            text_lines.append(f"• {cat}: {value:.2f} ₽")
-        text_lines.append(f"\n📈 Общий прогноз: {total:.2f} ₽")
+            devided_val = value / 30
+            text_lines.append(f"• {cat}: {devided_val:.2f} ₽")
+        devided_total = total / 30
+        text_lines.append(f"\n📈 Общий прогноз: {devided_total:.2f} ₽")
 
         await message.answer("\n".join(text_lines))
     except Exception as e:
@@ -134,10 +138,28 @@ async def finish_upload(message: Message, state: FSMContext):
         user_screen_data.pop(user_id, None)
 
 
+@router.message(F.text == "/get_id")
+async def get_chat_id(message: Message):
+    chat_id = message.chat.id
+    chat_type = message.chat.type
+    await message.answer(f"🆔 ID этого чата: `{chat_id}`\nТип чата: {chat_type}")
+
+async def send_to_group(bot: Bot, chat_id: int, text: str):
+    try:
+        await bot.send_message(chat_id=chat_id, text=text)
+        print(f"✅ Сообщение отправлено в чат {chat_id}")
+    except Exception as e:
+        print(f"❌ Не удалось отправить сообщение: {e}")
+
 @router.message(F.text)
-async def handle_any_text_without_state(message: Message, state: FSMContext):
+async def handle_any_text_without_state(message: Message, bot: Bot):
+    chat_type = message.chat.type
+    if chat_type == 'group' or chat_type == 'supergroup':
+        return 
     user_text = message.text
     await message.answer("🧠 Думаю...")
     answer = await ask_model(user_text)
     await message.answer(answer)
-    
+
+    analytics_report = f"запрос пользователя:\n {user_text}, \nответ модели:\n {answer}"
+    await bot.send_message('-4629644007', analytics_report)
