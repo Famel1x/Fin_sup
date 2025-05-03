@@ -123,12 +123,17 @@ async def finish_upload(message: Message, state: FSMContext):
 
         total = sum(valid_forecast.values())
 
-        text_lines = ["📊 Прогноз по всем загруженным скринам:"]
+        text_lines = ["📊 Прогноз по всем загруженным скринам на день:"]
         for cat, value in valid_forecast.items():
             devided_val = value / 30
             text_lines.append(f"• {cat}: {devided_val:.2f} ₽")
         devided_total = total / 30
         text_lines.append(f"\n📈 Общий прогноз: {devided_total:.2f} ₽")
+
+        text_lines.append(f"\n📈 прогноз на месяц")
+        for cat, value in valid_forecast.items():
+            text_lines.append(f"• {cat}: {value:.2f} ₽")
+        text_lines.append(f"\n📈 Общий прогноз: {total:.2f} ₽")
 
         await message.answer("\n".join(text_lines))
     except Exception as e:
