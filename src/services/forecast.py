@@ -7,12 +7,6 @@ from datetime import datetime
 import os
 from .gradient_boosting_model import main
 
-logging.basicConfig(
-    filename='forecast_pipeline.log',
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
-
 EXCLUDED_CATEGORIES = {'перевод', 'вклад', 'сбп', 'карта', 'прочее'}
 
 def is_valid_category(category: str) -> bool:
@@ -68,7 +62,8 @@ def forecast_by_boosting(transactions: List[Dict]) -> Dict[str, float]:
 
 def format_for_forecast(parsed_data):
     cleaned = []
-    for t in parsed_data:
+    for i_data in parsed_data:
+        t = i_data["data"]
         if "timestamp" in t and "amount" in t:
             try:
                 ts = t["timestamp"] if isinstance(t["timestamp"], datetime) else datetime.strptime(t["timestamp"], "%Y-%m-%d")
@@ -77,4 +72,6 @@ def format_for_forecast(parsed_data):
                 cleaned.append({"timestamp": ts, "amount": amt, "category": category})
             except Exception as e:
                 print(f"Ошибка в формате строки: {t} — {e}")
+                logging.error(f"Ошибка в формате строки: {t} — {e}")
+
     return cleaned

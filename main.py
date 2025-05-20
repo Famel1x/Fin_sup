@@ -22,6 +22,12 @@ main_menu_commands = [
     BotCommand(command="/finish_upload", description="Завершить загрузку скриншотов"),
 ]
 
+logging.basicConfig(
+    filename='forecast_pipeline.log',
+    level=logging.ERROR,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+
 async def main():
     logging.basicConfig(level=logging.INFO)
 
